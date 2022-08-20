@@ -1,0 +1,22 @@
+{
+  "name": "uyumsoft-einvoice-nodejs",
+  "version": "1.0.0",
+  "description": "Minimal Node.js app for Uyumsoft E-Invoice Integration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/osman-turan/uyumsoft-einvoice-nodejs.git"
+  },
+  "author": "Osman Turan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/osman-turan/uyumsoft-einvoice-nodejs/issues"
+  },
+  "homepage": "https://github.com/osman-turan/uyumsoft-einvoice-nodejs#readme",
+  "dependencies": {
+    "strong-soap": "^3.4.0"
+  }
+}
